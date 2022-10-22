@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @FanYang991115
-- 👀 I’m interested in deep learning.
-- 🌱 I’m currently learning AI things.
-- 💞️ I'm Looking for a PhD position
 - 📫 Email: f.yang1@ufl.edu
 
 <!---
